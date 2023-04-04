@@ -1,0 +1,15 @@
+E:\ALL GIT C#\Read_intergers_into_words\bin\Debug\net7.0\Read_intergers_into_words.exe
+E:\ALL GIT C#\Read_intergers_into_words\bin\Debug\net7.0\Read_intergers_into_words.deps.json
+E:\ALL GIT C#\Read_intergers_into_words\bin\Debug\net7.0\Read_intergers_into_words.runtimeconfig.json
+E:\ALL GIT C#\Read_intergers_into_words\bin\Debug\net7.0\Read_intergers_into_words.dll
+E:\ALL GIT C#\Read_intergers_into_words\bin\Debug\net7.0\Read_intergers_into_words.pdb
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.csproj.AssemblyReference.cache
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.AssemblyInfoInputs.cache
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.AssemblyInfo.cs
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.csproj.CoreCompileInputs.cache
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.dll
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\refint\Read_intergers_into_words.dll
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.pdb
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\Read_intergers_into_words.genruntimeconfig.cache
+E:\ALL GIT C#\Read_intergers_into_words\obj\Debug\net7.0\ref\Read_intergers_into_words.dll
